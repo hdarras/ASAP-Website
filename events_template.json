@@ -1,0 +1,10 @@
+{ 
+    "userdetails": [{ 
+      "first_name": "ASAP",
+      "last_name": "Rocky",
+      "email":"asap@rocky.org",
+      "phone": "66985623986",
+      "event_name": "paris",
+      "tickets": "2"
+    }]
+    }
